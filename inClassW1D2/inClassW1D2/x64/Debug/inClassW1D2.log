@@ -1,8 +1,0 @@
-﻿  firstAttempt.cpp
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(25,7): error C2061: syntax error: identifier 'popvec'
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(25,35): error C2059: syntax error: ')'
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(26,1): error C2143: syntax error: missing ')' before '}'
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(26,1): error C2143: syntax error: missing ';' before '}'
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(26,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(26,1): warning C4183: 'sort': missing return type; assumed to be a member function returning 'int'
-C:\Users\Lilia\OneDrive - Lawrence University\AAA Spring 2023\CMSC 500\inClassW1D2\inClassW1D2\firstAttempt.cpp(28,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
